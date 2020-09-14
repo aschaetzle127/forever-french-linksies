@@ -1,0 +1,24 @@
+body {
+  background-image: url("images/background-image.jpg");
+  background-size: 100%;
+}
+
+img {
+  border-style: outset;
+  border-color: #45a29e;
+}
+
+.ig-link {
+  color: #66fcf1;
+  font-weight: bold;
+  font-size: large;
+}
+
+.btn {
+  background-color: #1f2833;
+}
+
+.btn-outline {
+  border-color: #66fcf1;
+  color: #66fcf1;
+}
